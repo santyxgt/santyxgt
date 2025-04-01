@@ -36,6 +36,7 @@ Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades. 💡
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpwODFhNW1xcXFrZHRoMGNvdTN2cGRhOGNnNDNvMDFsMWJ3ZWU5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HujXZ3C3pbq0Z7hKVr/giphy.gif" width="500" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/042/918/828/original/synfexis-_-porogif-final.gif?1635805421" width="300" />
 </p>
+
 
