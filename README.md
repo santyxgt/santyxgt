@@ -34,3 +34,8 @@ Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades. 💡
   <a href="https://www.linkedin.com/in/david-santiago-guerrero-tolosa-974b0334a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.notion.so/David-Santiago-Guerrero-Tolosa-1c8f2066b9bf808b9167ee9fb68cbaa4"><img src="https://skillicons.dev/icons?i=notion" /></a>
 </p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpwODFhNW1xcXFrZHRoMGNvdTN2cGRhOGNnNDNvMDFsMWJ3ZWU5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HujXZ3C3pbq0Z7hKVr/giphy.gif" width="500" />
+</p>
+
