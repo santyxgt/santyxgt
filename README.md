@@ -1,5 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&pause=1000&color=F7F7F7&center=false&width=500&lines=El+%C3%BAnico+l%C3%ADmite+es+tu+imaginaci%C3%B3n...;+y+la+RAM.)](https://git.io/typing-svg)
 
+ 💻 David Santiago Guerrero Tolosa  
+
+🚀 Ingeniero de sistemas | Desarrollador  
+
+📍 Bogotá, Colombia | 🌱 Apasionado por la tecnología y el aprendizaje continuo  
+
+---
+
+## 📝 Sobre mí  
+
+Hola, soy **David Santiago Guerrero Tolosa**, un apasionado desarrollador de software con experiencia en **estructuras de datos**, **desarrollo web** y **creación de bots automatizados**. Me encanta optimizar algoritmos y desarrollar soluciones eficientes.  
+
+Siempre estoy explorando nuevas tecnologías y mejorando mis habilidades. 💡  
+
 ### 🛠️ Tecnologías y Herramientas  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=light" />
